@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/n19015.github.io/static/css/main.ae52d0a0.chunk.css",
+    "main.js": "/n19015.github.io/static/js/main.bc18501e.chunk.js",
+    "main.js.map": "/n19015.github.io/static/js/main.bc18501e.chunk.js.map",
+    "runtime-main.js": "/n19015.github.io/static/js/runtime-main.560bfada.js",
+    "runtime-main.js.map": "/n19015.github.io/static/js/runtime-main.560bfada.js.map",
+    "static/js/2.46809b2c.chunk.js": "/n19015.github.io/static/js/2.46809b2c.chunk.js",
+    "static/js/2.46809b2c.chunk.js.map": "/n19015.github.io/static/js/2.46809b2c.chunk.js.map",
+    "index.html": "/n19015.github.io/index.html",
+    "precache-manifest.abca2bfdc9429f3e911c74b74cede74d.js": "/n19015.github.io/precache-manifest.abca2bfdc9429f3e911c74b74cede74d.js",
+    "service-worker.js": "/n19015.github.io/service-worker.js",
+    "static/css/main.ae52d0a0.chunk.css.map": "/n19015.github.io/static/css/main.ae52d0a0.chunk.css.map",
+    "static/js/2.46809b2c.chunk.js.LICENSE.txt": "/n19015.github.io/static/js/2.46809b2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.560bfada.js",
+    "static/js/2.46809b2c.chunk.js",
+    "static/css/main.ae52d0a0.chunk.css",
+    "static/js/main.bc18501e.chunk.js"
+  ]
+}
